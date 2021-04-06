@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Entities.Models;
+
+namespace Contracts
+{
+    public interface ISectionRepository
+    {
+        IEnumerable<Section> GetAllSections(bool trackChanges);
+        Section GetSection(Guid companyId, bool trackChanges);
+    }
+}
