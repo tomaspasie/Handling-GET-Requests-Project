@@ -7,4 +7,4 @@
 
 ### Assignment: Create all of the GET requests for each system component to support the browsing and retrieval functions required by the system.
 
-## Screenshots of Postman Output - Added GET requests for Users, Courses, Sections, and Assignments
+## Screenshots of Postman Output -  Added GET requests for Users, Courses, Sections, and Assignments
