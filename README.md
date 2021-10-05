@@ -1,4 +1,4 @@
-# Handling Get Requests Project
+# Handling GET Requests Project
 
 ### Goal: Create all of the GET requests for each system component to support the browsing and retrieval functions required by the system.
 
