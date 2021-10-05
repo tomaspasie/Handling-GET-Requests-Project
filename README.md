@@ -2,7 +2,7 @@
 
 ### Goal: Create all of the GET requests for each system component to support the browsing and retrieval functions required by the system.
 
-Written by Tomas Pasiecznik:
+Done by Tomas Pasiecznik:
 
 ### I added GET requests for Users, Courses, Sections, and Assignments
 
