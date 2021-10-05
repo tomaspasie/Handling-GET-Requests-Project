@@ -1,11 +1,8 @@
-###### Tomas Pasiecznik
-###### Professor Williams
-###### IS 421-002
-###### 6 April 2021
+# Handling Get Requests Project
 
-# Homework: Module 7 - Handling Get Requests
+### Goal: Create all of the GET requests for each system component to support the browsing and retrieval functions required by the system.
 
-### Assignment: Create all of the GET requests for each system component to support the browsing and retrieval functions required by the system.
+Written by Tomas Pasiecznik:
 
 ### I added GET requests for Users, Courses, Sections, and Assignments
 
